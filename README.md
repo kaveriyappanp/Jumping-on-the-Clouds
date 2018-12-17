@@ -5,8 +5,11 @@ For each game, Emma will get an array of clouds numbered 0 if they are safe or 1
 
 
 Sample Input :
+
 7
+
 0 0 1 0 0 1 0
 
 Sample Output :
+
 4
